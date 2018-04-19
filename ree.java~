@@ -1,0 +1,8 @@
+
+public class ree extends Location
+{
+    public ree(){
+        int x = 0;k
+        super(1, 2);
+    }
+}
