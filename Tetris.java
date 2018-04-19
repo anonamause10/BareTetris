@@ -6,7 +6,7 @@ public class Tetris implements ArrowListener
     {
         Tetris tetris = new Tetris(); //creates a new tetris
         tetris.play(); //starts the game
-        //
+        
     }
     private int time; //base time it takes for the block to fall
     private int gameTime; //level specific time for the block to fall
